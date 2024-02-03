@@ -10,6 +10,8 @@
   .alternate {
     box-sizing: border-box;
     width: 390px;
+    width: 400px;
+    margin: auto;
   }
 
   .boxii {
