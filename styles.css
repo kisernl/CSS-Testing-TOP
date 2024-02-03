@@ -9,4 +9,21 @@
   
   .alternate {
     box-sizing: border-box;
+    width: 390px;
+  }
+
+  .boxii {
+    border: dotted black;
+    margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 40px;
+    margin-left: 2em;
+    padding: 1em;
+  }
+
+  .boxiii span {
+    background-color: pink;
+    border: 5px solid black;
+    padding: 1em;
+    display: inline-block;
   }
